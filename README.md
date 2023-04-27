@@ -1,7 +1,7 @@
 # GreenSafe
 
   GreenSafe - Formation en ligne pour la conformité HSE et la sécurité environnementale
-GreenSafe Training est une plateforme de formation en ligne dédiée aux normes de HSE (Hygiène, Sécurité, Environnement). Elle offre une gamme complète de cours interactifs pour sensibiliser et former les employés et les particuliers aux meilleures pratiques en matière de HSE. Avec des modules de formation couvrant la sécurité, l'hygiène, l'environnement et les réglementations, GreenSafe permet aux utilisateurs d'acquérir les connaissances nécessaires pour assurer la conformité aux normes de HSE et promouvoir un environnement de travail sûr et respectueux de l'environnement.
+GreenSafe  est une plateforme de formation en ligne dédiée aux normes de HSE (Hygiène, Sécurité, Environnement). Elle offre une gamme complète de cours interactifs pour sensibiliser et former les employés et les particuliers aux meilleures pratiques en matière de HSE. Avec des modules de formation couvrant la sécurité, l'hygiène, l'environnement et les réglementations, GreenSafe permet aux utilisateurs d'acquérir les connaissances nécessaires pour assurer la conformité aux normes de HSE et promouvoir un environnement de travail sûr et respectueux de l'environnement.
 
 Caractéristiques principales
 Cours interactifs : Des cours multimédias engageants, combinant vidéos, animations et quiz interactifs.
